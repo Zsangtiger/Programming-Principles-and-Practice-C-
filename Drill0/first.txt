@@ -1,0 +1,1 @@
+This folder contains drill0 with the excercises for that chapter.
